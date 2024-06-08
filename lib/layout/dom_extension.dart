@@ -1,0 +1,3 @@
+extension DomExtension on String {
+
+}
